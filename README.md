@@ -2,8 +2,6 @@
 
 **Chọn một người trên ảnh camera. Xe tự căn hướng, bám theo và tìm lại người đó sau khi mất dấu.**
 
-Đồ án hệ thống cơ điện tử của **Phạm Huỳnh Quang**. Raspberry Pi 4 xử lý hình ảnh từ webcam USB. ESP32 V9 điều khiển hai động cơ và gửi vận tốc bánh đo từ encoder về Pi.
-
 [Thiết bị](#thiết-bị-và-đấu-nối) · [Chạy thử](#chạy-thử) · [Tinh chỉnh](#tinh-chỉnh-trên-terminal)
 
 ## Robot hoạt động thế nào?
